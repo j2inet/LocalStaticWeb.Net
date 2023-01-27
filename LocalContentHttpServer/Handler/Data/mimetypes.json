@@ -1,0 +1,306 @@
+[
+  {
+    "Extension": "aac",
+    "MimeTypeString": "audio/aac"
+  },
+  {
+    "Extension": "abw",
+    "MimeTypeString": "application/x-abiword"
+  },
+  {
+    "Extension": "arc",
+    "MimeTypeString": "application/x-freearc"
+  },
+  {
+    "Extension": "avif",
+    "MimeTypeString": "image/avif"
+  },
+  {
+    "Extension": "avi",
+    "MimeTypeString": "video/x-msvideo"
+  },
+  {
+    "Extension": "azw",
+    "MimeTypeString": "application/vnd.amazon.ebook"
+  },
+  {
+    "Extension": "bin",
+    "MimeTypeString": "application/octet-stream"
+  },
+  {
+    "Extension": "bmp",
+    "MimeTypeString": "image/bmp"
+  },
+  {
+    "Extension": "bz",
+    "MimeTypeString": "application/x-bzip"
+  },
+  {
+    "Extension": "bz2",
+    "MimeTypeString": "application/x-bzip2"
+  },
+  {
+    "Extension": "cda",
+    "MimeTypeString": "application/x-cdf"
+  },
+  {
+    "Extension": "csh",
+    "MimeTypeString": "application/x-csh"
+  },
+  {
+    "Extension": "css",
+    "MimeTypeString": "text/css"
+  },
+  {
+    "Extension": "csv",
+    "MimeTypeString": "text/csv"
+  },
+  {
+    "Extension": "doc",
+    "MimeTypeString": "application/msword"
+  },
+  {
+    "Extension": "docx",
+    "MimeTypeString": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "Extension": "eot",
+    "MimeTypeString": "application/vnd.ms-fontobject"
+  },
+  {
+    "Extension": "epub",
+    "MimeTypeString": "application/epub+zip"
+  },
+  {
+    "Extension": "gz",
+    "MimeTypeString": "application/gzip"
+  },
+  {
+    "Extension": "gif",
+    "MimeTypeString": "image/gif"
+  },
+  {
+    "Extension": "htm",
+    "MimeTypeString": "text/html"
+  },
+  {
+    "Extension": "html",
+    "MimeTypeString": "text/html"
+  },
+  {
+    "Extension": "ico",
+    "MimeTypeString": "image/vnd.microsoft.icon"
+  },
+  {
+    "Extension": "ics",
+    "MimeTypeString": "text/calendar"
+  },
+  {
+    "Extension": "jar",
+    "MimeTypeString": "application/java-archive"
+  },
+  {
+    "Extension": "jpeg",
+    "MimeTypeString": "image/jpeg"
+  },
+  {
+    "Extension": "jpg",
+    "MimeTypeString": "image/jpeg"
+  },
+  {
+    "Extension": "js",
+    "MimeTypeString": "text/javascript"
+  },
+  {
+    "Extension": "json",
+    "MimeTypeString": "application/json"
+  },
+  {
+    "Extension": "jsonld",
+    "MimeTypeString": "application/ld+json"
+  },
+  {
+    "Extension": "mid",
+    "MimeTypeString": "audio/midi"
+  },
+  {
+    "Extension": "midi",
+    "MimeTypeString": "audio/x-midi"
+  },
+  {
+    "Extension": "mjs",
+    "MimeTypeString": "audio/midi"
+  },
+  {
+    "Extension": "mp3",
+    "MimeTypeString": "audio/mpeg"
+  },
+  {
+    "Extension": "mp4",
+    "MimeTypeString": "video/mp4"
+  },
+  {
+    "Extension": "mpg",
+    "MimeTypeString": "video/mpeg"
+  },
+  {
+    "Extension": "mpkg",
+    "MimeTypeString": "application/vnd.apple.installer+xml"
+  },
+  {
+    "Extension": "opd",
+    "MimeTypeString": "application/vnd.oasis.opendocument.presentation"
+  },
+  {
+    "Extension": "ods",
+    "MimeTypeString": "application/vnd.oasis.opendocument.spreadsheet"
+  },
+  {
+    "Extension": "odt",
+    "MimeTypeString": "application/vnd.oasis.opendocument.text"
+  },
+  {
+    "Extension": "oga",
+    "MimeTypeString": "audio/ogg"
+  },
+  {
+    "Extension": "ogv",
+    "MimeTypeString": "video/ogg"
+  },
+  {
+    "Extension": "ogx",
+    "MimeTypeString": "application/ogg"
+  },
+  {
+    "Extension": "opus",
+    "MimeTypeString": "audio/opus"
+  },
+  {
+    "Extension": "otf",
+    "MimeTypeString": "font/otf"
+  },
+  {
+    "Extension": "png",
+    "MimeTypeString": "image/png"
+  },
+  {
+    "Extension": "pdf",
+    "MimeTypeString": "application/pdf"
+  },
+  {
+    "Extension": "php",
+    "MimeTypeString": "application/x-httpd-php"
+  },
+  {
+    "Extension": "ppt",
+    "MimeTypeString": "application/vnd.ms-powerpoint"
+  },
+  {
+    "Extension": "pptx",
+    "MimeTypeString": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+  },
+  {
+    "Extension": "rar",
+    "MimeTypeString": "application/vnd.rar"
+  },
+  {
+    "Extension": "rtf",
+    "MimeTypeString": "application/rtf"
+  },
+  {
+    "Extension": "sh",
+    "MimeTypeString": "application/x-sh"
+  },
+  {
+    "Extension": "svg",
+    "MimeTypeString": "image/svg+xml"
+  },
+  {
+    "Extension": "tar",
+    "MimeTypeString": "application/x-tar"
+  },
+  {
+    "Extension": "tif",
+    "MimeTypeString": "image/tiff"
+  },
+  {
+    "Extension": "tiff",
+    "MimeTypeString": "image/tiff"
+  },
+  {
+    "Extension": "ts",
+    "MimeTypeString": "video/mp2t"
+  },
+  {
+    "Extension": "ttf",
+    "MimeTypeString": "font/ttf"
+  },
+  {
+    "Extension": "txt",
+    "MimeTypeString": "text/plain"
+  },
+  {
+    "Extension": "vsd",
+    "MimeTypeString": "application/vnd.visio"
+  },
+  {
+    "Extension": "wav",
+    "MimeTypeString": "audio/wav"
+  },
+  {
+    "Extension": "weba",
+    "MimeTypeString": "audio/webm"
+  },
+  {
+    "Extension": "webm",
+    "MimeTypeString": "video/webm"
+  },
+  {
+    "Extension": "webp",
+    "MimeTypeString": "image/webp"
+  },
+  {
+    "Extension": "woff",
+    "MimeTypeString": "font/woff"
+  },
+  {
+    "Extension": "woff2",
+    "MimeTypeString": "font/woff2"
+  },
+  {
+    "Extension": "xhtml",
+    "MimeTypeString": "application/xhtml+xml"
+  },
+  {
+    "Extension": "xls",
+    "MimeTypeString": "application/vnd.ms-excel"
+  },
+  {
+    "Extension": "xlsl",
+    "MimeTypeString": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  {
+    "Extension": "xml",
+    "MimeTypeString": "application/xml"
+  },
+  {
+    "Extension": "xul",
+    "MimeTypeString": "application/vnd.mozilla.xul+xml"
+  },
+  {
+    "Extension": "zip",
+    "MimeTypeString": "application/zip"
+  },
+  {
+    "Extension": "3gp",
+    "MimeTypeString": "video/3gpp"
+  },
+  {
+    "Extension": "3g2",
+    "MimeTypeString": "video/3gpp2"
+  },
+  {
+    "Extension": "7z",
+    "MimeTypeString": "application/x-7z-compressed"
+  }
+]

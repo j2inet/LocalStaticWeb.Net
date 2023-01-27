@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Handler\Data\mimetypes.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Handler\Data\mimetypes.json" />
+  </ItemGroup>
+
+</Project>
